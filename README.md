@@ -1,2 +1,4 @@
-# quarto-document-template
-Template for quick quarto document s
+
+# Quarto Template
+
+This is a template for quarto documentation.
